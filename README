@@ -1,0 +1,4 @@
+I was not able to get a full comparison, as part 5 would not 
+boot correctly. However I did get to see the amount of data 
+fragmentation on the base slob file as new programs were created 
+with fork
